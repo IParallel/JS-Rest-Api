@@ -1,4 +1,4 @@
-# BELLO-REST-API <img src="https://i.imgur.com/Ejs7IRX.png" align="top" width="256" height="256">
+# BELLO-REST-API <img src="https://i.imgur.com/EZ3VyL9.gif" align="top" width="256" height="256">
 
 > maybe one day everything will be easy
 
